@@ -1,4 +1,4 @@
- <img src="https://github.com/FabiolaSaga/FabiolaSaga/blob/main/nameBanner.gif" />
+ <div align="center"><img src="https://github.com/FabiolaSaga/FabiolaSaga/blob/main/nameBanner.gif"/>/></div>
 Welcome to my Github page! I work as an iOS Engineer at [Orthogonal](https://orthogonal.io/), a development firm that builds companion software for connected medical devices in Chicago.
 
 💻 Programming languages:  
