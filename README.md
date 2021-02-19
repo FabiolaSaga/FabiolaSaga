@@ -6,7 +6,7 @@
 <br />💻 Programming languages:  
 - Swift.  
 - Kotlin. 
-- Objective-C. <br />
+- Python. <br />
 
 
 <br />🔭 I’m currently working on:  
