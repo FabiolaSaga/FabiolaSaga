@@ -10,7 +10,7 @@
 
 
 <br />🔭 I’m currently working on:  
-- Labs project [City Scape](https://github.com/Lambda-School-Labs/cityspire-ios-h/tree/master/labs-ios-starter.xcodeproj/project.xcworkspace) <br />
+- Labs project [City Scape](https://github.com/Lambda-School-Labs/cityspire-ios-h) <br />
  
  
 <br />💬 Spoken languages:  
