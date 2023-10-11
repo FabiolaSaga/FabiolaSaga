@@ -5,7 +5,8 @@
 
 <br />💻 Programming languages:  
 - Swift.  
-- Kotlin. <br />
+- Kotlin.
+- Flutter. <br />
 
 
 <br />🔭 I’m currently working on:  
