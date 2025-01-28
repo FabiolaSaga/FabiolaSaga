@@ -7,10 +7,6 @@
 - Swift.  
 - Kotlin.
 - Flutter. <br />
-
-
-<br />🔭 I’m currently working on:  
-- Labs project [City Scape](https://github.com/Lambda-School-Labs/cityspire-ios-h) <br />
  
  
 <br />💬 Spoken languages:  
